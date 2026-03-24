@@ -1,0 +1,25 @@
+{
+  "name": "@anthropic-flux/react-native-foundation",
+  "version": "1.0.0",
+  "description": "Flux Design System UI components for React Native",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "peerDependencies": {
+    "react": ">=18.0.0",
+    "react-native": ">=0.72.0",
+    "react-native-svg": ">=13.0.0",
+    "react-native-webview": ">=13.0.0",
+    "@expo/vector-icons": ">=14.0.0",
+    "@anthropic-flux/react-native-ds": "1.0.0",
+    "@anthropic-flux/react-native-assets": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-native": "^0.72.0",
+    "typescript": "^5.3.0"
+  },
+  "license": "MIT"
+}
