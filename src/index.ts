@@ -13,6 +13,9 @@ export { FluxRadioButton, type FluxRadioButtonProps, type FluxRadioButtonSize } 
 export { FluxToggle, type FluxToggleProps, type FluxToggleSize } from './atoms/FluxToggle';
 export { FluxSegmentedControl, type FluxSegmentedControlProps, type FluxSegmentedControlSize, type FluxSegmentedControlStyle } from './atoms/FluxSegmentedControl';
 export { FluxShimmer, type FluxShimmerProps, type FluxShimmerShape } from './atoms/FluxShimmer';
+export { FluxProgressRing, type FluxProgressRingProps } from './atoms/FluxProgressRing';
+export { FluxProgressBar, type FluxProgressBarProps } from './atoms/FluxProgressBar';
+export { FluxPaginationDots, type FluxPaginationDotsProps } from './atoms/FluxPaginationDots';
 
 // Molecules
 export { FluxCard, type FluxCardProps } from './molecules/FluxCard';
