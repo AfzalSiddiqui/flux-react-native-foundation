@@ -1,7 +1,7 @@
 import React from 'react';
 import { Image, View, ActivityIndicator, StyleSheet } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { FluxSpacing, useFluxColors } from '@anthropic-flux/react-native-ds';
+import { FluxSpacing, useFluxColors } from '@flux-ds/react-native-ds';
 
 export type FluxIconSource =
   | { type: 'ionicon'; name: string }

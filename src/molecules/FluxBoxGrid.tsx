@@ -7,7 +7,7 @@ import {
   FluxOpacity,
   FluxTypography,
   useFluxColors,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 import { FluxIcon, FluxIconSource } from '../atoms/FluxIcon';
 
 export type FluxBoxGridSelectionMode = 'none' | 'single' | 'multi';

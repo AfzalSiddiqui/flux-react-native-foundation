@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, ViewStyle } from 'react-native';
 import Svg, { Circle } from 'react-native-svg';
-import { useFluxColors } from '@anthropic-flux/react-native-ds';
+import { useFluxColors } from '@flux-ds/react-native-ds';
 
 export interface FluxProgressRingProps {
   progress: number; // 0 to 1

@@ -5,7 +5,7 @@ import {
   FluxOpacity,
   FluxTypography,
   useFluxColors,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 
 export type FluxCheckBoxStyle = 'filled' | 'outlined';
 export type FluxCheckBoxSize = 'small' | 'medium' | 'large';

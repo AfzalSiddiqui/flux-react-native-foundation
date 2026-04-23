@@ -6,7 +6,7 @@ import {
   FluxBorder,
   FluxTypography,
   useFluxColors,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 
 export interface FluxTextFieldProps {
   label?: string;

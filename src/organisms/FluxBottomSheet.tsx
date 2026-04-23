@@ -15,7 +15,7 @@ import {
   FluxSpacing,
   FluxRadius,
   useFluxColors,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 
 export type FluxBottomSheetDetent = 'small' | 'medium' | 'large';
 

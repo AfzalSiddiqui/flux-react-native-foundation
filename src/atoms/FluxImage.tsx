@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Image, Pressable, View, ActivityIndicator, StyleSheet, ViewStyle } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
-import { FluxRadius, FluxBorder, useFluxColors } from '@anthropic-flux/react-native-ds';
+import { FluxRadius, FluxBorder, useFluxColors } from '@flux-ds/react-native-ds';
 
 export type FluxImageSource =
   | { type: 'system'; name: string }

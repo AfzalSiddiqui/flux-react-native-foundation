@@ -1,6 +1,6 @@
 import React from 'react';
 import { Text, TextStyle, StyleSheet } from 'react-native';
-import { FluxTypography, FluxTypographyKey, useFluxColors } from '@anthropic-flux/react-native-ds';
+import { FluxTypography, FluxTypographyKey, useFluxColors } from '@flux-ds/react-native-ds';
 
 export type FluxTextStyle =
   | 'largeTitle' | 'title' | 'title2' | 'title3'

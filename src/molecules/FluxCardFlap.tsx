@@ -5,7 +5,7 @@ import {
   FluxRadius,
   FluxShadow,
   useFluxColors,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 
 export interface FluxCardFlapProps {
   isFlipped: boolean;

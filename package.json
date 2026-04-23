@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-flux/react-native-foundation",
+  "name": "@flux-ds/react-native-foundation",
   "version": "1.0.0",
   "description": "Flux Design System UI components for React Native",
   "main": "src/index.ts",
@@ -13,8 +13,8 @@
     "react-native-svg": ">=13.0.0",
     "react-native-webview": ">=13.0.0",
     "@expo/vector-icons": ">=14.0.0",
-    "@anthropic-flux/react-native-ds": "*",
-    "@anthropic-flux/react-native-assets": "*"
+    "@flux-ds/react-native-ds": "*",
+    "@flux-ds/react-native-assets": "*"
   },
   "peerDependenciesMeta": {
     "react-native-svg": {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { ActivityIndicator, View, StyleSheet, ViewStyle } from 'react-native';
-import { FluxSpacing, useFluxColors } from '@anthropic-flux/react-native-ds';
+import { FluxSpacing, useFluxColors } from '@flux-ds/react-native-ds';
 
 export type FluxLoaderSize = 'small' | 'medium' | 'large';
 

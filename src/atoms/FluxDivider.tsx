@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, ViewStyle } from 'react-native';
-import { FluxBorder, useFluxColors } from '@anthropic-flux/react-native-ds';
+import { FluxBorder, useFluxColors } from '@flux-ds/react-native-ds';
 
 export type FluxDividerAxis = 'horizontal' | 'vertical';
 

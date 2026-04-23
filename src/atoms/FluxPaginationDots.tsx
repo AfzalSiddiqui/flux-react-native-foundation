@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, ViewStyle, Animated } from 'react-native';
-import { useFluxColors, FluxSpacing } from '@anthropic-flux/react-native-ds';
+import { useFluxColors, FluxSpacing } from '@flux-ds/react-native-ds';
 
 export interface FluxPaginationDotsProps {
   count: number;

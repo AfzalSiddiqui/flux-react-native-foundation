@@ -1,6 +1,6 @@
 import React from 'react';
 import { View, ViewStyle } from 'react-native';
-import { useFluxColors, FluxRadius } from '@anthropic-flux/react-native-ds';
+import { useFluxColors, FluxRadius } from '@flux-ds/react-native-ds';
 
 export interface FluxProgressBarProps {
   progress: number; // 0 to 1

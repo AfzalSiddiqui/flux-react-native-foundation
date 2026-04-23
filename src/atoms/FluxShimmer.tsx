@@ -5,7 +5,7 @@ import {
   FluxSpacing,
   useFluxColors,
   hexToRgba,
-} from '@anthropic-flux/react-native-ds';
+} from '@flux-ds/react-native-ds';
 
 export type FluxShimmerShape =
   | { type: 'line'; width?: number; height?: number }
